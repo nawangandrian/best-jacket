@@ -10,7 +10,7 @@
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"></a>
 </p>
 
-# 🧥 Best Jacket - The New Avenue Store
+# Best Jacket - The New Avenue Store
 
 **"On Your Life"**
 
@@ -19,12 +19,12 @@ Temukan jaket yang sesuai dengan gaya Anda dan lengkapi penampilan Anda dengan k
 
 ---
 
-## 🛒 Tentang Aplikasi
+## Tentang Aplikasi
 
 **Best Jacket** adalah **aplikasi sistem penjualan berbasis kasir** yang dibangun menggunakan **CodeIgniter 4 manual (tanpa PHP Spark)**.  
 Aplikasi ini adalah **proyek tugas studi** yang dirancang untuk membantu pengelolaan transaksi penjualan jaket dengan cepat, ringan, dan mudah digunakan.
 
-### 🔧 Fitur Utama
+### Fitur Utama
 
 - **Beranda** — Menampilkan ringkasan informasi penjualan dan navigasi utama.
 - **Produk** — Kelola daftar jaket (tambah, ubah, hapus, lihat detail).
@@ -33,7 +33,7 @@ Aplikasi ini adalah **proyek tugas studi** yang dirancang untuk membantu pengelo
 
 ---
 
-## 🖼️ Screenshot Aplikasi
+## Screenshot Aplikasi
 
 <p align="center">
   <img src="public/screenshots/home.png" width="600" alt="Halaman Beranda">
@@ -49,7 +49,7 @@ Aplikasi ini adalah **proyek tugas studi** yang dirancang untuk membantu pengelo
 
 ---
 
-## 🧰 Teknologi yang Digunakan
+## Teknologi yang Digunakan
 
 - **Backend:** CodeIgniter 4 (manual, tanpa spark)
 - **Frontend:** HTML, CSS, JavaScript, Bootstrap
@@ -59,7 +59,7 @@ Aplikasi ini adalah **proyek tugas studi** yang dirancang untuk membantu pengelo
 
 ---
 
-## ⚙️ Cara Menjalankan Aplikasi (Localhost)
+## Cara Menjalankan Aplikasi (Localhost)
 
 1. **Clone repository:**
    ```bash
