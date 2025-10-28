@@ -22,7 +22,7 @@ Temukan jaket yang sesuai dengan gaya Anda dan lengkapi penampilan Anda dengan k
 ## 🛒 Tentang Aplikasi
 
 **Best Jacket** adalah **aplikasi sistem penjualan berbasis kasir** yang dibangun menggunakan **CodeIgniter 4 manual (tanpa PHP Spark)**.  
-Aplikasi ini adalah proyek tugas studi yang dirancang untuk membantu pengelolaan transaksi penjualan jaket dengan cepat, ringan, dan mudah digunakan.
+Aplikasi ini adalah **proyek tugas studi** yang dirancang untuk membantu pengelolaan transaksi penjualan jaket dengan cepat, ringan, dan mudah digunakan.
 
 ### 🔧 Fitur Utama
 
