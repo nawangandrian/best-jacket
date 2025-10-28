@@ -1,11 +1,10 @@
 <p align="center">
   <a href="https://codeigniter.com" target="_blank">
-    <img src="https://codeigniter.com/assets/images/ci-logo-big.png" width="400" alt="CodeIgniter Logo">
+    <img src="public/screenshots/ci4.png" width="400" alt="CodeIgniter Logo">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/codeigniter4/CodeIgniter4/actions"><img src="https://github.com/codeigniter4/CodeIgniter4/workflows/tests/badge.svg" alt="Build Status"></a>
   <a href="https://packagist.org/packages/codeigniter4/framework"><img src="https://img.shields.io/packagist/dt/codeigniter4/framework" alt="Total Downloads"></a>
   <a href="https://packagist.org/packages/codeigniter4/framework"><img src="https://img.shields.io/packagist/v/codeigniter4/framework" alt="Latest Stable Version"></a>
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"></a>
